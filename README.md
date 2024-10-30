@@ -23,8 +23,5 @@ Antes de comenzar, asegúrate de tener instaladas las siguientes librerías:
 - `scipy` para operaciones lineales avanzadas
 - `jupyter` para ejecutar los notebooks
 
-## Instalación
-1. Clona el repositorio de GitHub:
-   ```bash
-   git clone https://github.com/tu_nombre_usuario/nombre_del_proyecto.git
-   cd nombre_del_proyecto
+## Autor
+Proyecto realizado por julien
